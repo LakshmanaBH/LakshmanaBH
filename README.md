@@ -1,8 +1,7 @@
-I’m Lakshmana
-
+:wave: I’m Lakshmana
+_____________________________________________________________________________________________________________________________________
 - 👀 I’m interested Analysis, Design, Develop and Implementation of ETL Using SSIS and Talend tool, and also Azure and AWS techonlogies
 - 🌱 I’m currently learning AI, MachineLearning
-- 💞️ I’m looking to collaborate on New projects
 - 📫 How to reach me lakshmanabh57@gmail.com
 
 <!---
